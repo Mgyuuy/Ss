@@ -11,7 +11,7 @@
 #define EXPIRATION_DAY 11   // 11st
 
 
-
+pip install telebot pymongo aiohttp psutil
 void usage() {
     printf("Usage: ./bgmi ip port time threads by @rajaraj_01 \n\n\n\n\n\n\n");
     exit(1);
